@@ -116,7 +116,7 @@ The webcam will open and detect your hand gestures.
 
 ## 👤 Author
 
-**Fiza M**
+**Mohammed Aqib**
 
 GitHub:  
 https://github.com/Aqib053
